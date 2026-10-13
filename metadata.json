@@ -1,0 +1,6 @@
+{
+  "name": "MaintTrack - Gestión de Equipos y Mantenimiento Correctivo",
+  "description": "Sistema de registro de flota de equipos industriales (Grillos, Pettibone, Hyster, TT/Terberg) y gestión de actividades correctivas, fallas, repuestos y horas detenido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
